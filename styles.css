@@ -1,0 +1,53 @@
+
+body{
+	
+	background: #554411;
+} 
+
+.title{
+	font-size:  64;
+	color: red;
+	background: #667722;
+	font-family: Verdana;
+}
+
+.sub-title{
+	font-size: 48;
+	color: green;
+	background: #554411;
+	font-family: Verdana;
+}
+
+
+.text{
+	font-size: 48px;
+	color: teal;
+	background: #554411;
+} 
+
+.scool{
+	font-size: 48px;
+	color: blue;
+	background: #554411;
+} 
+
+.hobby{
+	font-family: Verdana;
+	font-size: 48;
+	color: pink;
+}
+
+.family{
+	font-size: 48;
+	color: pink;
+}
+
+
+.link{
+	text-decoration: none;
+	font-size: 48;
+}
+.infor{
+	font-size: 48px;
+	color: pink;
+}
